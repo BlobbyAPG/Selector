@@ -1,0 +1,68 @@
+h1
+{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body
+{
+    background-image: url(https://media.istockphoto.com/vectors/tropic-jungle-background-vector-id481633524);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.place
+{
+    width: 100px;
+    border: 2px solid black;
+    background: blanchedalmond;
+    text-align: center;
+}
+#one
+{
+    height: 40px;
+    width: 170px;
+    font-size: 0.8cm;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 80%;
+}
+#two
+{
+    height: 150px;
+    width: 170px;
+    font-size: 0.8cm;
+    text-align: center;
+    position: absolute;
+    top: 64%;
+    left: 42%;
+}
+#three
+{
+    height: 90px;
+    width: 170px;
+    font-size: 0.8cm;
+    text-align: center;
+    position: absolute;
+    top: 74%;
+    left: 5%;
+}
+#cheetah
+{
+    position: absolute;
+    top: 47%;
+    left: 78%;
+}
+#elephant
+{
+    position: absolute;
+    top: 35%;
+    left: 43%;
+}
+#giraffe
+{
+    position: absolute;
+    top: 37%;
+    left: 3%;
+}
